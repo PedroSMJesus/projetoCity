@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+
+#container{
+    margin-bottom: 5px;
+}
+
+nav, .banner,.principal, .rodape{
+    margin-top: 3px;
+    background-color: red;
+}
+
+nav{
+    height: auto;
+}
+
+.banner{
+    height: auto;
+    margin:auto;
+    margin-top: 3px;
+    text-align: center;
+}
+
+.principal{
+    height:auto;
+}
+
+.rodape{
+    height: 200px;
+}
+
+article{
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.links{
+    text-align: right;
+    position:static;  
+}
+
+
+.image{
+    justify-content: space-between;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
